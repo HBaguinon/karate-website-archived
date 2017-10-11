@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html><head>
+  
+
+  
+  
+  <title>Althouse Karate &amp; Kickboxing</title><link rel="stylesheet" type="text/css" href="style.css" /></head>
+<body>
+&nbsp;&nbsp; &nbsp;
+<div id="overall">
+<h1>Althouse Karate &amp; Kickboxing</h1>
+<div id="menu">
+<ul>
+  <li><a href="index.htm">Home</a></li>
+  <li><a href="tournament.htm">Tournament</a></li>
+  <li><a href="principles.htm">Principles</a></li>
+  <li><a href="instructors.htm">Instructors</a></li>
+  <li><a href="dojo.htm">Dojo</a></li>
+  <li><a href="gallery.htm">Gallery</a></li>
+  <li><a href="uska.htm">USKA</a></li>
+  <li><a href="contact.htm">Contact</a></li>
+</ul>
+</div>
+<div id="size">
+<h2> <span class="style3">
+<p align="center">Happy Holidays and Happy New Year!<br />
+</p>
+</span></h2>
+<p align="center">We are happy to announce a new location! We are now located at<br />
+<span style="font-weight: bold;">5371 Allentown Pike, 2nd Floor, Temple, PA 19560</span><br />
+Phone number: 610-929-3292<BR>
+(On U.S. Route 222 Business, across from Walmart)</p>
+<p align="center">Come in and train with us!<br />&nbsp;<br />
+<img src="images/classphoto.jpg" style="margin: 0px 15px; width: 576px;" alt="Althouse Members" align="left" />
+</p>
+
+<p style="color: white;"><font face="arial" size="2"><font size="3">Althouse Karate
+ and Kickboxing LLC, established in 1995,&nbsp;has one of the longest running
+ martial arts programs in Berks County. We offer expert training in 
+Chinese Kenpo Karate, Full Contact Kickboxing, Muay Thai and Self 
+Defense. We pride ourselves on our friendly, family oriented 
+environment. <u>You</u> <u>sign</u> <u>NO</u> <u>contract!</u>&nbsp; Dues are
+ paid on a month-to-month basis. We invite you and your family to stop 
+in, take a tour of our school, and observe a Karate and/or Kickboxing 
+class.&nbsp; Our owners and instructors would be happy to meet with you to 
+suggest a program that best suits your needs.&nbsp; We hope to share with you
+ how the martial arts can change your life!</font></font></p>
+</div>
+<div id="menu2">
+<ul>
+  <li>Search:
+    <form method="get" action="search.php"><input id="search" name="search" type="text" />&nbsp;&nbsp;<input value="Submit" id="submit" type="submit" /></form>
+  </li>
+  <h6><span class="special">Copyright © Althouse
+Karate &amp;
+Kickboxings. All rights reserved.</span></h6>
+</ul>
+</div>
+</div>
+
+</body></html>
